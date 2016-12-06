@@ -1,0 +1,15 @@
+{
+  "name": "replacemyweb",
+  "version": "1.0.0",
+  "description": "my Web!",
+  "main": "app.js",
+  "dependencies": {
+    "pug": "^2.0.0-beta6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nexusA",
+  "license": "ISC"
+}
