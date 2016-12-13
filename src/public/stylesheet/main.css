@@ -1,0 +1,27 @@
+  p {
+    text-align: center;
+    color: #F5F5F5;
+    font-style: normal;
+    font-size: 18;
+
+    height: 14px;
+  }
+body{
+  background-color: #212121;
+}
+red{
+  display: block;
+
+    width: 50px;
+    height: 50px;
+
+
+  color:#C62828;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 30;
+}
+
+br {
+  height: 20px;
+}
